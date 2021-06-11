@@ -1,7 +1,6 @@
 <template>
   <div class="container">
     <div>
-      <nav-bar />
       <h1 class="title">
         About nuxt-tutorial-app
       </h1>

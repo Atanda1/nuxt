@@ -16,7 +16,7 @@
         <nuxt-link to="/carDashboard">Car dashboard</nuxt-link>
       </div>
       <div class="nav__link">
-        <nuxt-link to="/vuexCarDashboard">Car dashboard</nuxt-link>
+        <nuxt-link to="/vuexCarDashboard">Car dashboard with Vuex</nuxt-link>
       </div>
     </nav>
   </header>
